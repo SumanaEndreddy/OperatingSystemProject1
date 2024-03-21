@@ -1,0 +1,6 @@
+in.txt
+main
+mainbkp.c
+main.c
+Makefile
+out.txt
